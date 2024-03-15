@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 👩‍💻 ***Front-end Developer*** <br>
-🎓 Currently graduating in ***Analysis and Systems Development*** <br>
+🎓 Currently graduating in ***Computer Software Engineering.*** <br>
 📍 Rio de Janeiro, Brazil
 
 <br>
