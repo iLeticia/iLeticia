@@ -6,7 +6,7 @@
 
 👩‍💻 ***Desenvolvedora de Software*** <br>
 🎓 Atualmente cursando ***Engenharia de Software.*** <br>
-📍 Rio de Janeiro, Brazil
+📍 Rio de Janeiro, Brasil
 
 <br>
 
