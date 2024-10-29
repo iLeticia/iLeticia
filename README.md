@@ -42,5 +42,8 @@
   
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ileticia&show_icons=true&locale=en" alt="ileticia" /></p>
+
+
 <!---->
   
