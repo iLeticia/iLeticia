@@ -14,10 +14,10 @@
 
 <div> 
   
-Ferramentas de Segurança: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Metasploit***
-Programação / Scripts: ***Python***, ***JavaScript***, ***Bash***
-Testes e Automação: ***Postman (API testing)***, automação de tarefas de segurança
-Redes e Sistemas: ***TCP/IP***, ***Firewalls***, ***VPN**, Sistemas Operacionais Windows/Linux
+Ferramentas de Segurança: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Metasploit*** <br>
+Programação / Scripts: ***Python***, ***JavaScript***, ***Bash*** <br>
+Testes e Automação: ***Postman (API testing)***, automação de tarefas de segurança <br>
+Redes e Sistemas: ***TCP/IP***, ***Firewalls***, ***VPN***, Sistemas Operacionais Windows/Linux <br>
 Metodologias: ***ITIL***, ***Agile (Scrum/Kanban)***, Gestão de Logs
 
 </div>
