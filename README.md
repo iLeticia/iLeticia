@@ -1,23 +1,24 @@
-### ✨ Hello there, I'm Leticia ツ
+### ✨ Olá, me chamo Leticia ツ
 
 <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-👩‍💻 ***Software Developer*** <br>
-🎓 Graduating in ***Software Engineering*** <br>
-📍 Rio de Janeiro, Brazil
+👩‍💻 ***Analista de Cibersegurança*** <br>
+🎓 Graduando em ***Engenharia de Software*** <br>
+📍 São José dos Pinhais, Paraná
 
 <br>
 
-### 🚀 Languages & Tools 
+### 🚀 Habilidades Técnicas
 
 <div> 
-  <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leticia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Leticia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Leticia-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Leticia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+Ferramentas de Segurança: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Metasploit***
+Programação / Scripts: ***Python***, ***JavaScript***, ***Bash***
+Testes e Automação: ***Postman (API testing)***, automação de tarefas de segurança
+Redes e Sistemas: ***TCP/IP***, ***Firewalls***, ***VPN**, Sistemas Operacionais Windows/Linux
+Metodologias: ***ITIL***, ***Agile (Scrum/Kanban)***, Gestão de Logs
 
 </div>
 
