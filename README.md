@@ -18,7 +18,7 @@ Security Tools: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Meta
 Programming / Scripting: ***Python***, ***PowerShell***, ***Bash*** <br>
 API Testing: ***Postman*** (REST APIs, request analysis) <br>
 Networking: ***TCP/IP***, ***Firewalls***, ***VPN***, Windows/Linux Operating Systems <br>
-Methodologies: ***Agile (Scrum/Kanban)***, Gestão de Logs
+Methodologies: ***Agile (Scrum/Kanban)***, Log Management
 
 </div>
 
