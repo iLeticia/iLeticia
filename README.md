@@ -1,24 +1,24 @@
-### ✨ Olá, me chamo Leticia ツ
+### ✨ Hey there, I'm Leticia ツ
 
 <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-👩‍💻 ***Analista de Cibersegurança*** <br>
-🎓 Graduando em ***Engenharia de Software*** <br>
+👩‍💻 ***Cybersecurity Analyst*** <br>
+🎓 ***Software Engineering Undergraduate*** <br>
 📍 São José dos Pinhais, Paraná
 
 <br>
 
-### 🚀 Habilidades Técnicas
+### 🚀 Technical Skills
 
 <div> 
   
-Ferramentas de Segurança: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Metasploit*** <br>
-Programação / Scripts: ***Python***, ***JavaScript***, ***Bash*** <br>
-Testes e Automação: ***Postman (API testing)***, automação de tarefas de segurança <br>
-Redes e Sistemas: ***TCP/IP***, ***Firewalls***, ***VPN***, Sistemas Operacionais Windows/Linux <br>
-Metodologias: ***ITIL***, ***Agile (Scrum/Kanban)***, Gestão de Logs
+Security Tools: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Metasploit*** <br>
+Programming / Scripting: ***Python***, ***PowerShell**, ***Bash*** <br>
+API Testing: ***Postman*** (REST APIs, request analysis) <br>
+Networking: ***TCP/IP***, ***Firewalls***, ***VPN***, Windows/Linux Operating Systems <br>
+Methodologies: ***Agile (Scrum/Kanban)***, Gestão de Logs
 
 </div>
 
