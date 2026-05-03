@@ -14,11 +14,11 @@
 
 <div> 
   
-**Blue Team / SOC:** Security event monitoring, log analysis, and incident response
-**Pentest / Red Team:** Enumeration, basic exploitation, and network reconnaissance
-**Tools:** Splunk, Nmap, and Nessus
-**Programming & Automation**: Python, Bash, and JavaScript
-**Networks & Systems:** TCP/IP, VPNs, Firewalls, Linux, and Windows
+**Blue Team / SOC:** Security event monitoring, log analysis, and incident response<br>
+**Pentest / Red Team:** Enumeration, basic exploitation, and network reconnaissance<br>
+**Tools:** Splunk, Nmap, and Nessus<br>
+**Programming & Automation**: Python, Bash, and JavaScript<br>
+**Networks & Systems:** TCP/IP, VPNs, Firewalls, Linux, and Windows<br>
 
 </div>
 
