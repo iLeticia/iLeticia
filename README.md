@@ -14,11 +14,11 @@
 
 <div> 
   
-Security Tools: ***Nmap***, ***Nessus***, ***Splunk***, ***Wireshark***, ***Metasploit*** <br>
-Programming / Scripting: ***Python***, ***PowerShell***, ***Bash*** <br>
-API Testing: ***Postman*** (REST APIs, request analysis) <br>
-Networking: ***TCP/IP***, ***Firewalls***, ***VPN***, Windows/Linux Operating Systems <br>
-Methodologies: ***Agile (Scrum/Kanban)***, Log Management
+**Blue Team / SOC:** Security event monitoring, log analysis, and incident response
+**Pentest / Red Team:** Enumeration, basic exploitation, and network reconnaissance
+**Tools:** Splunk, Nmap, and Nessus
+**Programming & Automation**: Python, Bash, and JavaScript
+**Networks & Systems:** TCP/IP, VPNs, Firewalls, Linux, and Windows
 
 </div>
 
