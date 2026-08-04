@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-👩‍💻 ***Cybersecurity Analyst*** <br>
+👩‍💻 ***Software Developer & Cybersecurity Enthusiast*** <br>
 🎓 ***Software Engineering Undergraduate*** <br>
 📍 São José dos Pinhais, Paraná
 
@@ -14,11 +14,12 @@
 
 <div> 
   
-**Blue Team / SOC:** Security event monitoring, log analysis, and incident response<br>
-**Pentest / Red Team:** Enumeration, basic exploitation, and network reconnaissance<br>
-**Tools:** Splunk, Nmap, and Nessus<br>
-**Programming & Automation**: Python, Bash, and JavaScript<br>
-**Networks & Systems:** TCP/IP, VPNs, Firewalls, Linux, and Windows<br>
+**Backend Development:** Python, Django, Django REST Framework, SQL, REST APIs <br>
+**Programming:** Python, JavaScript <br>
+**Tools & Practices:** Git, GitHub, pytest, PEP8, Linux <br>
+
+**Also experienced in Security Monitoring & Blue Team:** <br>
+Splunk, Wireshark, Nmap, Nessus, Microsoft Sentinel — TCP/IP, Firewalls, VPNs, Windows/Linux hardening
 
 </div>
 
