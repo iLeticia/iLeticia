@@ -1,10 +1,9 @@
 ### ✨ Hey there, I'm Leticia ツ
 
+### Cybersecurity | Blue Team & SOC
 <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
-
-### Cybersecurity | Blue Team & SOC
 
 Software Engineering student focused on **Cybersecurity, Blue Team, and SOC operations**.
 
